@@ -7,6 +7,6 @@ Basic version uses a single static Contract class.
 
 Advanced version is more granular and uses three different classes - Require (Preconditions), Assume (Invariants), and Verify (Postconditions).
 
-Use them and you will create better software.
+Use either one of them and you will create better software.
 
 
